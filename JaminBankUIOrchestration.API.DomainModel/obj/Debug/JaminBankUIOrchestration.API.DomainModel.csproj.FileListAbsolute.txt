@@ -1,0 +1,5 @@
+C:\Users\JaminTc\Desktop\GitHub\JaminBankApp\JaminBankUIOrchestration\JaminBankUIOrchestration.API.DomainModel\bin\Debug\JaminBankUIOrchestration.API.DomainModel.dll
+C:\Users\JaminTc\Desktop\GitHub\JaminBankApp\JaminBankUIOrchestration\JaminBankUIOrchestration.API.DomainModel\bin\Debug\JaminBankUIOrchestration.API.DomainModel.pdb
+C:\Users\JaminTc\Desktop\GitHub\JaminBankApp\JaminBankUIOrchestration\JaminBankUIOrchestration.API.DomainModel\obj\Debug\JaminBankUIOrchestration.API.DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\JaminTc\Desktop\GitHub\JaminBankApp\JaminBankUIOrchestration\JaminBankUIOrchestration.API.DomainModel\obj\Debug\JaminBankUIOrchestration.API.DomainModel.dll
+C:\Users\JaminTc\Desktop\GitHub\JaminBankApp\JaminBankUIOrchestration\JaminBankUIOrchestration.API.DomainModel\obj\Debug\JaminBankUIOrchestration.API.DomainModel.pdb
